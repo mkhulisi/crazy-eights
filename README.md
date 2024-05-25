@@ -21,7 +21,7 @@ $db_name = "cr8_db";
 
 3. Configure a reverse proxy on your Apache or NGINX server, setting the proxy port to `8080`.
 
-4. Run the command `php server.php`.
+4. Run the command `php crazy-eights/server.php`.
 
 5. Start the HTTP server.
 
