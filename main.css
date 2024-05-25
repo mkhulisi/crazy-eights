@@ -1,0 +1,8 @@
+.bg-image {
+  background-image: url('dist/images/cards/a_heart.png'); /* Path to your background image */
+  background-size: cover;
+  background-position: center;
+  height: 300px; /* Adjust the height as needed */
+  border-radius: 10px; /* Add border-radius for rounded corners */
+  padding: 5px;
+}
